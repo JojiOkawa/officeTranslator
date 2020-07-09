@@ -1,0 +1,18 @@
+{
+  "timeZone": "Asia/Tokyo",
+  "dependencies": {
+    "enabledAdvancedServices": [{
+      "userSymbol": "Drive",
+      "serviceId": "drive",
+      "version": "v2"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [{
+      "menuName": "Translator",
+      "functionName": "Translator"
+    }]
+  }
+}
